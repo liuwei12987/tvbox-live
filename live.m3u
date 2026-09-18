@@ -1,65 +1,2333 @@
 #EXTM3U
-#EXTINF:-1 group-title="剧场频道",第一剧场
-https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="剧场频道",第一剧场
-https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="剧场频道",第一剧场
-http://107.150.60.122/live/dyjc.m3u8
-#EXTINF:-1 group-title="剧场频道",第一剧场
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
-#EXTINF:-1 group-title="剧场频道",第一剧场
-http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-#EXTINF:-1 group-title="剧场频道",风云剧场
-https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="剧场频道",风云剧场
-http://173.208.212.130:8181/720p/fyjc.m3u8
-#EXTINF:-1 group-title="剧场频道",风云剧场
-http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-#EXTINF:-1 group-title="剧场频道",风云剧场
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
-#EXTINF:-1 group-title="剧场频道",浙江教科影视
-http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-#EXTINF:-1 group-title="剧场频道",东阳影视生活
-http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
-#EXTINF:-1 group-title="剧场频道",欢笑剧场
-http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
-#EXTINF:-1 group-title="剧场频道",都市剧场
-http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
-#EXTINF:-1 group-title="剧场频道",都市剧场
-https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
-#EXTINF:-1 group-title="剧场频道",南宁影视娱乐
-http://hls.nntv.cn/nnlive/YSYL_244.m3u8
-#EXTINF:-1 group-title="剧场频道",❌江苏无锡大剧院
-https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
-#EXTINF:-1 group-title="经典怀旧",怀旧剧场
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc
-#EXTINF:-1 group-title="经典怀旧",怀旧剧场
-http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-#EXTINF:-1 group-title="经典怀旧",天映经典
-http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
-#EXTINF:-1 group-title="经典怀旧",湖北经典广播
-https://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
-#EXTINF:-1 group-title="经典怀旧",辽宁经典广播
-https://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
-#EXTINF:-1 group-title="经典怀旧",山东经典广播
-https://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
-#EXTINF:-1 group-title="电影院线",上虞文化影院
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://119.129.172.161:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV3
+http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://120.198.95.220:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://59.39.89.130:60901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://120.198.95.220:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://120.198.95.220:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://120.198.95.220:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://221.13.235.160:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://221.13.235.160:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://221.13.235.160:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://120.198.95.220:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://218.13.170.98:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://124.228.160.190:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://222.169.85.8:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+#EXTINF:-1 group-title="央视频道",CCTV-1 (720p)
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-1 综合
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-1综合
+http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-2
+http://204.12.221.218:8181/3m1080p/cctv2.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-2 (720p)
+http://74.91.26.218:82/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-2 财经
+http://74.91.26.218:82/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-2财经
+http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-3
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
+#EXTINF:-1 group-title="央视频道",CCTV-3 (720p)
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-3 综艺
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4 中文国际（亚）
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4 中文国际（欧）
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4中文国际
+http://113.25.252.226:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-5
+http://107.150.60.122/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视频道",CCTV-6
+http://74.91.26.218:82/live/cctv6hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-7
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-7 (720p)
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-7 国防军事
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-8
+http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-8 (720p)
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-8 电视剧
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-9
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
+#EXTINF:-1 group-title="央视频道",CCTV-9 (576i)
+https://xykt-fix.github.io/Y77.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-9 纪录
+https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2fe1eb99d7fbe0b0acb4f1f06d47a78b
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视频道",CCTV-10 (720p)
+http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-10 科教
+http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-11 (720p)
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-11 戏曲
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-12
+http://107.150.60.122/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-12 (720p)
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-12 社会与法
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视频道",CCTV-13 (720p)
+http://74.91.26.218:82/live/cctv13hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-13 新闻
+http://74.91.26.218:82/live/cctv13hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://198.204.228.26/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-14 (1080p)
+http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-14 少儿
+http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-15
+http://204.12.221.218:8181/3m1080p/cctv15.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-15 (1080p)
+https://xykt-fix.github.io/play/a02e/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-15 音乐
+http://74.91.26.218:82/live/cctv15hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-16
+http://207.56.13.146:81/cdnlive/cctv16.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-17
+https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="央视频道",CCTV-17 (1080p)
+http://74.91.26.218:82/live/cctv17hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-17 农业农村
+http://74.91.26.218:82/live/cctv17hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-Health (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视频道",CGTN俄语
+https://0472.org/hls/cgtne.m3u8
+#EXTINF:-1 group-title="央视频道",CGTN法语
+https://0472.org/hls/cgtnf.m3u8
+#EXTINF:-1 group-title="央视频道",CGTN纪录
+https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+#EXTINF:-1 group-title="央视频道",CGTN英语
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 group-title="央视频道",CGTN西语
+https://0472.org/hls/cgtnx.m3u8
+#EXTINF:-1 group-title="央视频道",CGTN记录
+https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 group-title="央视频道",CGTN阿语
+https://0472.org/hls/cgtna.m3u8
+#EXTINF:-1 group-title="央视频道",央视台球
+http://107.150.60.122/live/ystq.m3u8
+#EXTINF:-1 group-title="卫视频道",三沙卫视
+http://107.150.60.122/live/ssws.m3u8
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd
+#EXTINF:-1 group-title="卫视频道",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="卫视频道",兵团卫视
+http://59.39.89.130:60901/tsfile/live/0125_9.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd
+#EXTINF:-1 group-title="卫视频道",厦门卫视
+http://107.150.60.122/live/xmws.m3u8
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
+#EXTINF:-1 group-title="卫视频道",四川卫视
+https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="卫视频道",大湾区卫视
+http://198.204.228.26/live/nfws.m3u8
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjwshd
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="卫视频道",安多卫视
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://107.150.60.122/live/ahwshd.m3u8
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdwshd
+#EXTINF:-1 group-title="卫视频道",山西卫视
+https://live.264788.xyz/channel/shanxiweishi?streamid=eeb7d60ca6e0db131ea7a092a3cd28d2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="卫视频道",广东卫视
+https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
+#EXTINF:-1 group-title="卫视频道",延边卫视
+https://srs.iyb983.cn/video/CYS/index.m3u8
+#EXTINF:-1 group-title="卫视频道",新疆卫视
+https://live.264788.xyz/channel/xinjiangweishi?streamid=4f481f56ae39ce5d24203471de9df635&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
+#EXTINF:-1 group-title="卫视频道",江西卫视
+https://live.264788.xyz/channel/jiangxiweishi?streamid=555198f31caa33506ac6abb70d788959&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hewshd
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://107.150.60.122/live/hawshd.m3u8
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://107.150.60.122/live/szwshd.m3u8
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://107.150.60.122/live/hbwshd.m3u8
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视频道",福建海峡卫视
+http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+https://live.264788.xyz/channel/xizangweishi?streamid=4b4e8ea919f1cfd5e43deed1d1675251&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnwshd
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
+#EXTINF:-1 group-title="卫视频道",陕西农林卫视
+https://live.chinacert.cftest5.cn/cnmg/live/956904896
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://107.150.60.122/live/qhws.m3u8
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://107.150.60.122/live/hljwshd.m3u8
+#EXTINF:-1 group-title="地方频道",Anhui TV
+https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
+#EXTINF:-1 group-title="地方频道",CETV-1
+http://198.204.228.26/live/cetv1hd.m3u8
+#EXTINF:-1 group-title="地方频道",CETV-3
+http://107.150.60.122/live/cetv3.m3u8
+#EXTINF:-1 group-title="地方频道",Guangzhou TV
+https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 group-title="地方频道",Hebei TV (2160p)
+https://event.pull.hebtv.com/live/live101.m3u8
+#EXTINF:-1 group-title="地方频道",Hunan TV (2160p)
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 group-title="地方频道",Kangba TV
+http://110.185.237.164:8888/hls/30/index.m3u8
+#EXTINF:-1 group-title="地方频道",Siping TV
+http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
+#EXTINF:-1 group-title="地方频道",Xinjiang TV 2
+http://110.153.180.106:55555/out_3/index.m3u8
+#EXTINF:-1 group-title="地方频道",Xinjiang TV 3
+http://110.153.180.106:55555/out_2/index.m3u8
+#EXTINF:-1 group-title="地方频道",Xinjiang TV 8
+http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
+#EXTINF:-1 group-title="地方频道",万州三峡移民
+http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
+#EXTINF:-1 group-title="地方频道",万荣综合
+http://60.222.246.220:19433/hls1.m3u8
+#EXTINF:-1 group-title="地方频道",上海动感101
+http://ls.qingting.fm/live/274.m3u8
+#EXTINF:-1 group-title="地方频道",上虞新商都
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#EXTINF:-1 group-title="地方频道",东丰综合
+http://stream3.jlntv.cn:80/aac_dfgb/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",乐至综合
+http://175.155.106.72:89/live1/live1.m3u8?zsicd
+#EXTINF:-1 group-title="地方频道",九台综合
+http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",云南丽江玉龙雪山
+https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",云南保山板桥镇青龙街
+https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",云南保山比顿咖啡产业文化园
+https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",云南德宏勐焕大金塔
+https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",云南昆明寻甸县城区
+https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",云南普洱景东县无量山羊山瀑布
+https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",云南普洱澜沧县景迈山
+https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",云南红河民族风情旅游月亮小镇
+https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",云南西双版纳千年古寨曼丢
+https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",云霄综合
+http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
+#EXTINF:-1 group-title="地方频道",井研综合
+http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",亳州农村
+http://zbbf2.ahbztv.com/live/418.m3u8
+#EXTINF:-1 group-title="地方频道",仁寿综合
+https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841ac34f63cdbd3aec647ef
+#EXTINF:-1 group-title="地方频道",伊犁哈萨克
+http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
+#EXTINF:-1 group-title="地方频道",伊犁维吾尔
+http://110.153.180.106:55555/out_2/index.m3u8
+#EXTINF:-1 group-title="地方频道",余姚姚江文化
+https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1 group-title="地方频道",余姚综合
+https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1 group-title="地方频道",余杭未来E
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
+#EXTINF:-1 group-title="地方频道",余杭综合
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="地方频道",六安公共
+http://ls.qingting.fm/live/1794199.m3u8
+#EXTINF:-1 group-title="地方频道",内蒙古乌审旗萨拉乌苏考古遗迹公园
+https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",剑阁综合
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",北京密云古水北镇
+https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",南京教科
+http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
+#EXTINF:-1 group-title="地方频道",南国都市
+http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+#EXTINF:-1 group-title="地方频道",南宁都市生活
+http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
+#EXTINF:-1 group-title="地方频道",卫辉综合
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226538/index.m3u8
+#EXTINF:-1 group-title="地方频道",双辽综合
+http://stream3.jlntv.cn:80/aac_slgb/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",古县综合
+https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
+#EXTINF:-1 group-title="地方频道",句容生活
+http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+#EXTINF:-1 group-title="地方频道",可克达拉综合
+http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",吉林乡村
+https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",名山综合
+https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",哈尔滨都市咨询
+http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild
+#EXTINF:-1 group-title="地方频道",嘉峪关综合
+http://play.kankanlive.com/live/1720583434627241.m3u8
+#EXTINF:-1 group-title="地方频道",四川峨眉山云海日出
+https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",大宁综合
+http://live.daningtv.com/aac_dngb/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",天祝综合
+https://play.kankanlive.com/live/1656487214793905.m3u8
+#EXTINF:-1 group-title="地方频道",安徽宣城溪桃大桥
+https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",安徽黄山卧云峰
+http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",安徽黄山飞来石
+https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",安徽黟县西递半山亭
+https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",定襄综合
+http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
+#EXTINF:-1 group-title="地方频道",宜阳综合
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227059/index.m3u8
+#EXTINF:-1 group-title="地方频道",宾阳综合
+http://pulls.myun.tv/live/0dkp33j5.m3u8
+#EXTINF:-1 group-title="地方频道",山东教育
+https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",山东济南趵突泉
+https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",山东生活
+http://ls.qingting.fm/live/60260.m3u8
+#EXTINF:-1 group-title="地方频道",嵊泗综合
+http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
+#EXTINF:-1 group-title="地方频道",常熟民生
+http://3gvod.zjgonline.com.cn:1935/live/_definst_/shehuishenghuo_app/chunklist.m3u8
+#EXTINF:-1 group-title="地方频道",平湖民生休闲
+http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+#EXTINF:-1 group-title="地方频道",广东民生
+http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
+#EXTINF:-1 group-title="地方频道",广东深圳福田红树林
+https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",广东珠江
+http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
+#EXTINF:-1 group-title="地方频道",广元公共
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",广元综合
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",广安公共
+http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
+#EXTINF:-1 group-title="地方频道",广州综合
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
+#EXTINF:-1 group-title="地方频道",广德生活
+https://live.gdtv.ah.cn/live/newsTV.m3u8
+#EXTINF:-1 group-title="地方频道",广西国际
+http://198.204.228.26/live/gxgj.m3u8
+#EXTINF:-1 group-title="地方频道",庆元综合
+http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?
+#EXTINF:-1 group-title="地方频道",延边2
+http://stream5.jlntv.cn/wq/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",徐州新聞綜合
+https://live.chinacert.cftest5.cn/cnmg/live/639731747
+#EXTINF:-1 group-title="地方频道",德惠综合
+http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",怀仁综合
+https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
+#EXTINF:-1 group-title="地方频道",成都大熊猫繁育研究基地
+https://gcwbcdtxy.liveplay.myqcloud.com/gcwbcd/cdrmipanda_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",敦化一套
+http://stream8.jlntv.cn/dhtv/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",文化精品
+https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="地方频道",文成综合
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="地方频道",新昌生活
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1 group-title="地方频道",新沂生活
+http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
+#EXTINF:-1 group-title="地方频道",新疆天山天池马牙山
+https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",新疆昌吉州天山天池定海神针
+http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",新疆昌吉州天山天池海西平台
+https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",新野综合
+http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
+#EXTINF:-1 group-title="地方频道",易门综合
+https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
+#EXTINF:-1 group-title="地方频道",普陀电视台
+http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+#EXTINF:-1 group-title="地方频道",朝天综合
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",来宾综合
+http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",松阳综合
+http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed?
+#EXTINF:-1 group-title="地方频道",柳河综合
+http://stream3.jlntv.cn:80/aac_lhgb/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",桦甸综合
+http://stream9.jlntv.cn:80/aac_huadiangb/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",梅河口综合
+http://stream3.jlntv.cn:80/aac_mhkgb/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",武进生活
+http://live.wjyanghu.com/live/CH2.m3u8
+#EXTINF:-1 group-title="地方频道",永城综合
+http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
+#EXTINF:-1 group-title="地方频道",永昌综合
+https://play.kankanlive.com/live/1652755738635915.m3u8
+#EXTINF:-1 group-title="地方频道",江苏公共
+https://live.chinacert.cftest5.cn/cnmg/live/626064693
+#EXTINF:-1 group-title="地方频道",江苏南京玄武湖公园
+https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",江苏宿迁骆马湖罗曼园
+https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",汪清综合
+http://stream5.jlntv.cn/wq/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",汾西综合
+https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
+#EXTINF:-1 group-title="地方频道",沈阳辽宁浑河桥
+https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",沐川综合
+http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
+#EXTINF:-1 group-title="地方频道",沭阳综合
+http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+#EXTINF:-1 group-title="地方频道",河北4K
+https://event.pull.hebtv.com:443/live/live101.m3u8
+#EXTINF:-1 group-title="地方频道",河北农民
+https://ls.qingting.fm/live/1650/64k.m3u8
+#EXTINF:-1 group-title="地方频道",河北承德金山岭长城
+https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",河北都市
+https://radio.pull.hebtv.com/live/hebnczx.m3u8
+#EXTINF:-1 group-title="地方频道",洛阳综合
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226542/index.m3u8
+#EXTINF:-1 group-title="地方频道",洞头综合
+http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
+#EXTINF:-1 group-title="地方频道",津南一套
+http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
+#EXTINF:-1 group-title="地方频道",浙江乌镇白莲塔
+https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",浙江乌镇蓝印花布
+https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",浙江乌镇西市河
+https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",浙江乌镇龙形田
+https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",浙江休闲台
+http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
+#EXTINF:-1 group-title="地方频道",浙江动听
+http://ls.qingting.fm/live/4866.m3u8
+#EXTINF:-1 group-title="地方频道",浙江国际
+http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 group-title="地方频道",浙江教科
+http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="地方频道",浙江教育
+http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
+#EXTINF:-1 group-title="地方频道",浙江数码时代
+http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
+#EXTINF:-1 group-title="地方频道",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
+#EXTINF:-1 group-title="地方频道",浙江民生休闲
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 group-title="地方频道",浙江生活
+http://ls.qingting.fm/live/1099.m3u8
+#EXTINF:-1 group-title="地方频道",浙江留学
+http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8
+#EXTINF:-1 group-title="地方频道",浙江经视
+http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
+#EXTINF:-1 group-title="地方频道",浙江舟山东极岛
+https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",浙江舟山嵊泗县中心渔港
+https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",浙江遂昌
+http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+#EXTINF:-1 group-title="地方频道",浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?
+#EXTINF:-1 group-title="地方频道",浙江钱江都市
+http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
+#EXTINF:-1 group-title="地方频道",涟水电视台综合
+https://lianshui-tv-hls.cm.jstv.com:443/lianshui-tv/lsxw.m3u8
+#EXTINF:-1 group-title="地方频道",涟水综合
+http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
+#EXTINF:-1 group-title="地方频道",淅川电视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226631/index.m3u8
+#EXTINF:-1 group-title="地方频道",深圳飞扬971
+https://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",湖南邵阳莨山八角寨
+https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",湖州公共民生
+http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
+#EXTINF:-1 group-title="地方频道",湖州文化娱乐
+http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
+#EXTINF:-1 group-title="地方频道",濮阳公共
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226664/index.m3u8
+#EXTINF:-1 group-title="地方频道",烟台公共
+http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
+#EXTINF:-1 group-title="地方频道",焦作公共
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226616/index.m3u8
+#EXTINF:-1 group-title="地方频道",焦作教育
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226648/index.m3u8
+#EXTINF:-1 group-title="地方频道",焦作综合
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226604/index.m3u8
+#EXTINF:-1 group-title="地方频道",玛纳斯综合
+http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
+#EXTINF:-1 group-title="地方频道",甘孜综合
+https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",甘肃敦煌月牙泉
+https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",甘肃都市
+https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",甘肃都市调频
+https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",田东综合
+http://pulls.myun.tv/live/0dkp33j5.m3u8
+#EXTINF:-1 group-title="地方频道",电视指南
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn
+#EXTINF:-1 group-title="地方频道",番禺综合
+http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+#EXTINF:-1 group-title="地方频道",登封综合
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226661/index.m3u8
+#EXTINF:-1 group-title="地方频道",白银综合
+http://play.kankanlive.com/live/1720408089419110.m3u8
+#EXTINF:-1 group-title="地方频道",直播中国
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="地方频道",睢宁综合
+https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+#EXTINF:-1 group-title="地方频道",磐石综合
+http://stream3.jlntv.cn:80/aac_psgb/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",祁门综合
+http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
+#EXTINF:-1 group-title="地方频道",福州生活
+http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 group-title="地方频道",福建公共
+https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=1cf7fc3a8f6d160c33b43c2f9507a0cc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="地方频道",福建南平武夷山玉女峰
+https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",福建旅游
+https://live.264788.xyz/channel/fujianlvyou?streamid=599c11c8b284751261b165f4d5765b36&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="地方频道",秦安综合
+https://play.kankanlive.com/live/1659926941626981.m3u8
+#EXTINF:-1 group-title="地方频道",绍兴公共
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1 group-title="地方频道",绍兴电视台公共
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+#EXTINF:-1 group-title="地方频道",缙云综合
+http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed?
+#EXTINF:-1 group-title="地方频道",苏州4K
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="地方频道",苏州4k
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 group-title="地方频道",苏州文化生活
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1 group-title="地方频道",荥经综合
+https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",荥阳综合
+http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
+#EXTINF:-1 group-title="地方频道",营山电视台
+http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",萧山生活
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1 group-title="地方频道",萧山综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 group-title="地方频道",衡水公共
+http://ls.qingting.fm/live/2810.m3u8
+#EXTINF:-1 group-title="地方频道",西安都市
+http://112.46.105.20:8009/hls/29/index.m3u8
+#EXTINF:-1 group-title="地方频道",西峰综合
+https://play.kankanlive.com/live/1683944827526991.m3u8
+#EXTINF:-1 group-title="地方频道",西藏山南浪卡子县鲁日拉景观台
+https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",西藏林芝米林岷山彩门民宿
+https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",许昌公共
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226695/index.m3u8
+#EXTINF:-1 group-title="地方频道",象山综合
+http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
+#EXTINF:-1 group-title="地方频道",贵州黔东南加榜梯田
+https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",辽宁都市
+https://ls.qingting.fm/live/1099/64k.m3u8
+#EXTINF:-1 group-title="地方频道",通化县综合
+http://stream3.jlntv.cn:80/aac_thxgb/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",通海电视台
+https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8
+#EXTINF:-1 group-title="地方频道",遂昌综合
+http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="地方频道",钱江都市
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 group-title="地方频道",铜梁综合
+http://183.64.174.171:40123/ch1.m3u8?zzhongqd
+#EXTINF:-1 group-title="地方频道",镇江二套社会民生
+http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+#EXTINF:-1 group-title="地方频道",长子综合
+https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
+#EXTINF:-1 group-title="地方频道",长影频道
+http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 group-title="地方频道",长白山电视台
+http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="地方频道",陕西公共
+http://ls.qingting.fm/live/1222.m3u8
+#EXTINF:-1 group-title="地方频道",陕西农林
+https://live.chinacert.cftest5.cn/cnmg/live/956904896
+#EXTINF:-1 group-title="地方频道",陕西咸阳乾陵景区
+https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",陕西渭南潼关县东山景区
+https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",陕西渭南蒲城县中心广场
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",陕西渭南韩城市党家村景区
+https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",陕西秦腔
+http://112.46.105.20:8009/hls/22/index.m3u8
+#EXTINF:-1 group-title="地方频道",陕西西安大雁塔
+https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",陕西西安钟楼
+https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",陕西都市青春
+http://112.46.105.20:8009/hls/19/index.m3u8
+#EXTINF:-1 group-title="地方频道",陕西银龄
+http://112.46.105.20:8009/hls/20/index.m3u8
+#EXTINF:-1 group-title="地方频道",青川综合
+http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",青海门源仙米国家森林公园
+https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",青田电视台
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+#EXTINF:-1 group-title="地方频道",靖宇综合
+http://stream9.jlntv.cn:80/aac_jygb/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",鹤壁综合
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226563/index.m3u8
+#EXTINF:-1 group-title="地方频道",黄山公共生活
+http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
+#EXTINF:-1 group-title="地方频道",黑龙江哈尔滨霁虹桥
+https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
+#EXTINF:-1 group-title="地方频道",黑龙江文体
+https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+#EXTINF:-1 group-title="地方频道",黑龙江都市
+https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
+#EXTINF:-1 group-title="地方频道",龙井综合
+http://stream9.jlntv.cn:80/aac_longjinggb/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",龙游生活娱乐
+http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
+#EXTINF:-1 group-title="港澳台",HOY TV
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1 group-title="港澳台",HOY 资讯台
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",东森美洲
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",东森超视
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="港澳台",凤凰香港
+https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
+#EXTINF:-1 group-title="港澳台",台视新闻
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",纬来体育
+https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
+#EXTINF:-1 group-title="港澳台",香港国际财经
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTINF:-1 group-title="海外频道",ABN China (720p)
+https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+#EXTINF:-1 group-title="海外频道",AR | 5TV Corrientes
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外频道",Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外频道",Ando TV (1080p)
+http://play.kankanlive.com/live/1711956137852982.m3u8
+#EXTINF:-1 group-title="海外频道",Arirang 阿里郎
+http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 group-title="海外频道",Asian Drama (1080p)
+http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
+#EXTINF:-1 group-title="海外频道",BBC America
+https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
+#EXTINF:-1 group-title="海外频道",BBS 불교 방송
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="海外频道",Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外频道",Bloomberg News Asia
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 group-title="海外频道",CAPITAL 958
+https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+#EXTINF:-1 group-title="海外频道",CJ OnStyle
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 group-title="海外频道",CJ OnStyle Plus
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#EXTINF:-1 group-title="海外频道",CNA 938
+https://14033.live.streamtheworld.com/938NOW_PREM.aac
+#EXTINF:-1 group-title="海外频道",CafeTV24 Veneto
+https://srvx1.selftv.video/cafe/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外频道",Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外频道",Dunya News
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外频道",EBS 1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
+#EXTINF:-1 group-title="海外频道",EBS 2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
+#EXTINF:-1 group-title="海外频道",EBS 키즈
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
+#EXTINF:-1 group-title="海外频道",EBS+ 1
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1 group-title="海外频道",EBS+ 2
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 group-title="海外频道",GS Shop
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外频道",Gugak TV
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外频道",HollyWire
+https://bozztv.com/hwotta/playlist/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外频道",Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="海外频道",KBS LiveCam DokDo
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外频道",KCTV 광주
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+#EXTINF:-1 group-title="海外频道",Korea TV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外频道",LOVE 972
+https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
+#EXTINF:-1 group-title="海外频道",MBC
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 group-title="海外频道",NRBTV
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外频道",RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="海外频道",RTV Rijnstreek TV
+https://ms7.mx-cd.net/tv/290-3222276/RTV_Rijnstreek.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外频道",Regio8 TV
+https://ms7.mx-cd.net/dtv-10/91-475821/Regio8TV.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外频道",Retro
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="海外频道",SBS
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+#EXTINF:-1 group-title="海外频道",Satran TV
+http://139.162.182.79/live/test/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外频道",Shop Channel
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+#EXTINF:-1 group-title="海外频道",TBS Seoul
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外频道",TV BRICS Chinese
+https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
+#EXTINF:-1 group-title="海外频道",TV Brusque
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外频道",TeleUno TV
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外频道",The Shopping Channel
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外频道",Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外频道",VOA美国之音 (1080p)
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+#EXTINF:-1 group-title="海外频道",VOCALO
+https://stream.wbez.org/vocalolinear
+#EXTINF:-1 group-title="海外频道",Vibee
+http://de1se01.v2beat.live/chunks.m3u8
+#EXTINF:-1 group-title="海外频道",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 group-title="海外频道",Wicked Tuna
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外频道",Wonder
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外频道",Xplore
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="海外频道",YES 933
+https://22393.live.streamtheworld.com/YES933_PREM.aac
+#EXTINF:-1 group-title="海外频道",tvN Asia HD (720p)
+http://58.8.186.128:10005/bysid/2518
+#EXTINF:-1 group-title="海外频道",「CA」 CA
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 group-title="海外频道",「CA」 CanadaOne
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 group-title="海外频道",「RU」 ALKORQAPLUS
+http://32.shqiptv.org/korca/albplus/index.m3u8
+#EXTINF:-1 group-title="海外频道",「RU」 GITV
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?zshijd
+#EXTINF:-1 group-title="海外频道",「RU」 Орск
+http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
+#EXTINF:-1 group-title="海外频道",「RU」 Самара
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="海外频道",「SG」亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+#EXTINF:-1 group-title="海外频道",「US」 Bloomberg TV+2
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd
+#EXTINF:-1 group-title="海外频道",「US」 BloombergTV+2
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1 group-title="海外频道",「US」 Newsma xTV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="海外频道",「电影」大卫贝肯•倒霉特工熊
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+#EXTINF:-1 group-title="海外频道",「电影」昆塔•反转星球
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+#EXTINF:-1 group-title="海外频道",「电影」棉花糖和云朵妈妈
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+#EXTINF:-1 group-title="海外频道",「电影」熊出没•变形记
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+#EXTINF:-1 group-title="海外频道",「电影」猪猪侠•英雄猪少年
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
+#EXTINF:-1 group-title="海外频道",朝鲜中央台
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 group-title="海外频道",국방国防TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 group-title="影视剧场",CHC动作电影
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+#EXTINF:-1 group-title="影视剧场",CHC电影
+http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="影视剧场",NewTV动作电影
+https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
+#EXTINF:-1 group-title="影视剧场",七龙珠
+https://live.ottiptv.cc/huya/11601966
+#EXTINF:-1 group-title="影视剧场",三国演义
+https://live.metshop.top/huya/11602081
+#EXTINF:-1 group-title="影视剧场",上虞文化影院
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-#EXTINF:-1 group-title="电影院线",淮安影院娱乐
-http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
-#EXTINF:-1 group-title="电影院线",淮安影院娱乐
-http://live1.habctv.com/ysylsl/sd/live.m3u8
-#EXTINF:-1 group-title="电影院线",CHC家庭影院
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
-#EXTINF:-1 group-title="电影院线",CHC家庭影院
-http://192.151.150.154/live/chcjt.m3u8
-#EXTINF:-1 group-title="电影院线",CHC家庭影院
-http://107.150.60.122/live/chcjt.m3u8
-#EXTINF:-1 group-title="电影院线",CHC家庭影院
-http://198.204.228.26/live/chcjt.m3u8
-#EXTINF:-1 group-title="电影院线",CHC家庭影院
-http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
-#EXTINF:-1 group-title="电影院线",经典电影
-https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8
-#EXTINF:-1 group-title="电影院线",句容影院
+#EXTINF:-1 group-title="影视剧场",东方影视
+https://live.chinacert.cftest5.cn/cnmg/live/617290047
+#EXTINF:-1 group-title="影视剧场",东阳影视生活
+http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+#EXTINF:-1 group-title="影视剧场",仙剑奇侠传
+https://live.ottiptv.cc/yy/1382749903
+#EXTINF:-1 group-title="影视剧场",南宁影视娱乐
+http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+#EXTINF:-1 group-title="影视剧场",句容影院
 http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
+#EXTINF:-1 group-title="影视剧场",天映经典
+http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
+#EXTINF:-1 group-title="影视剧场",天龙八部
+https://live.metshop.top/huya/20985816
+#EXTINF:-1 group-title="影视剧场",封神榜
+https://live.metshop.top/huya/29465849
+#EXTINF:-1 group-title="影视剧场",射雕英雄传
+https://live.metshop.top/huya/23824164
+#EXTINF:-1 group-title="影视剧场",怀旧剧场
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc
+#EXTINF:-1 group-title="影视剧场",新白娘子传奇
+https://live.ottiptv.cc/yy/1354490667
+#EXTINF:-1 group-title="影视剧场",春晚1983
+https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
+#EXTINF:-1 group-title="影视剧场",春晚1984
+https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+#EXTINF:-1 group-title="影视剧场",春晚1985
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+#EXTINF:-1 group-title="影视剧场",春晚1986
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
+#EXTINF:-1 group-title="影视剧场",春晚1987
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
+#EXTINF:-1 group-title="影视剧场",春晚1988
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
+#EXTINF:-1 group-title="影视剧场",春晚1989
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+#EXTINF:-1 group-title="影视剧场",春晚1991
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
+#EXTINF:-1 group-title="影视剧场",春晚1993
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
+#EXTINF:-1 group-title="影视剧场",春晚1994
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
+#EXTINF:-1 group-title="影视剧场",春晚1995
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
+#EXTINF:-1 group-title="影视剧场",春晚1996
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+#EXTINF:-1 group-title="影视剧场",春晚1999
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
+#EXTINF:-1 group-title="影视剧场",春晚2000
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
+#EXTINF:-1 group-title="影视剧场",春晚2001
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
+#EXTINF:-1 group-title="影视剧场",春晚2002
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
+#EXTINF:-1 group-title="影视剧场",春晚2003
+https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
+#EXTINF:-1 group-title="影视剧场",春晚2004
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
+#EXTINF:-1 group-title="影视剧场",春晚2005
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
+#EXTINF:-1 group-title="影视剧场",春晚2006
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
+#EXTINF:-1 group-title="影视剧场",春晚2007
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
+#EXTINF:-1 group-title="影视剧场",春晚2008
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
+#EXTINF:-1 group-title="影视剧场",春晚2009
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
+#EXTINF:-1 group-title="影视剧场",春晚2010
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
+#EXTINF:-1 group-title="影视剧场",春晚2011
+https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
+#EXTINF:-1 group-title="影视剧场",春晚2013
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
+#EXTINF:-1 group-title="影视剧场",春晚2014
+https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
+#EXTINF:-1 group-title="影视剧场",春晚2015
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
+#EXTINF:-1 group-title="影视剧场",春晚2017
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
+#EXTINF:-1 group-title="影视剧场",春晚2018
+https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+#EXTINF:-1 group-title="影视剧场",春晚2019
+https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+#EXTINF:-1 group-title="影视剧场",春晚2020
+https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+#EXTINF:-1 group-title="影视剧场",春晚2021
+https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+#EXTINF:-1 group-title="影视剧场",春晚2022
+https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+#EXTINF:-1 group-title="影视剧场",春晚2024
+https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+#EXTINF:-1 group-title="影视剧场",春晚2025
+https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
+#EXTINF:-1 group-title="影视剧场",春晚2026
+https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8
+#EXTINF:-1 group-title="影视剧场",欢笑剧场
+http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
+#EXTINF:-1 group-title="影视剧场",水浒传
+http://173.208.234.146/live/vlshz.m3u8
+#EXTINF:-1 group-title="影视剧场",浙江教科影视
+http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+#EXTINF:-1 group-title="影视剧场",淮安影院娱乐
+http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
+#EXTINF:-1 group-title="影视剧场",笑傲江湖
+https://live.metshop.top/huya/26355790
+#EXTINF:-1 group-title="影视剧场",第一剧场
+https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="影视剧场",经典电影
+https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8
+#EXTINF:-1 group-title="影视剧场",西游记
+http://173.208.234.146/live/vlxyj.m3u8
+#EXTINF:-1 group-title="影视剧场",都市剧场
+http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
+#EXTINF:-1 group-title="影视剧场",闯关东
+http://173.208.234.146/live/lbchuangguandong.m3u8
+#EXTINF:-1 group-title="影视剧场",风云剧场
+https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="影视剧场",鹿鼎记
+https://live.ottiptv.cc/yy/28265277
+#EXTINF:-1 group-title="影视剧场",黑莓电影
+https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
+#EXTINF:-1 group-title="少儿动漫",Camp Spoopy「少儿」
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269&livestream=1&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f77a99416621400402b3dc1&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---&checkedby:iptvcat.com
+#EXTINF:-1 group-title="少儿动漫",FZTV-4 Children 少儿频道
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+#EXTINF:-1 group-title="少儿动漫",中华小当家
+https://live.metshop.top/huya/11342413
+#EXTINF:-1 group-title="少儿动漫",南京少儿
+http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
+#EXTINF:-1 group-title="少儿动漫",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="少儿动漫",海绵宝宝
+https://live.metshop.top/douyu/3949681
+#EXTINF:-1 group-title="少儿动漫",猫和老鼠
+https://live.metshop.top/huya/11352879
+#EXTINF:-1 group-title="少儿动漫",福州少儿
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+#EXTINF:-1 group-title="少儿动漫",金鹰卡通
+http://59.39.89.130:60901/tsfile/live/0125_25.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="少儿动漫",黑龙江少儿
+https://ls.qingting.fm/live/4972/64k.m3u8
+#EXTINF:-1 group-title="体育频道",Red Bull TV「体育」
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="体育频道",广东体育
+http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
+#EXTINF:-1 group-title="体育频道",精品体育
+https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
+#EXTINF:-1 group-title="体育频道",足球频道
+https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
+#EXTINF:-1 group-title="体育频道",风云足球
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
+#EXTINF:-1 group-title="体育频道",高尔夫网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 group-title="新闻财经",FZTV-1 News 新闻综合频道
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+#EXTINF:-1 group-title="新闻财经",News98 新闻台
+http://stream.rcs.revma.com/55tyxsy4qtzuv
+#EXTINF:-1 group-title="新闻财经",三明新闻综合
+http://ls.qingting.fm/live/4885.m3u8
+#EXTINF:-1 group-title="新闻财经",上海第一财经
+https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+#EXTINF:-1 group-title="新闻财经",上虞新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="新闻财经",东莞新闻综合
+https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+#EXTINF:-1 group-title="新闻财经",东莞生活资讯
+https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
+#EXTINF:-1 group-title="新闻财经",中国蓝新闻
+http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
+#EXTINF:-1 group-title="新闻财经",云和新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="新闻财经",亳州新闻
+http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
+#EXTINF:-1 group-title="新闻财经",伊犁经济法制
+http://110.153.180.106:55555/out_4/index.m3u8
+#EXTINF:-1 group-title="新闻财经",余姚新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1 group-title="新闻财经",六安新闻综合
+http://ls.qingting.fm/live/267.m3u8
+#EXTINF:-1 group-title="新闻财经",兰溪新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+#EXTINF:-1 group-title="新闻财经",兵团五师双河新闻综合
+http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
+#EXTINF:-1 group-title="新闻财经",兵团八师石河子新闻综合
+http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="新闻财经",北京新闻
+https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
+#EXTINF:-1 group-title="新闻财经",南京新闻综合
+http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
+#EXTINF:-1 group-title="新闻财经",哈尔滨新闻综合
+http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
+#EXTINF:-1 group-title="新闻财经",哈尔滨资讯
+http://stream.hrbtv.net/zxpd/sd/live.m3u8
+#EXTINF:-1 group-title="新闻财经",嘉兴新闻综合
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+#EXTINF:-1 group-title="新闻财经",大象资讯台
+https://stream.hndt.com/live/nongcun/playlist.m3u8
+#EXTINF:-1 group-title="新闻财经",太谷新闻综合
+https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
+#EXTINF:-1 group-title="新闻财经",夹江新闻综合
+http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd
+#EXTINF:-1 group-title="新闻财经",安顺新闻
+https://hplayer1.juyun.tv/camera/154379194.m3u8
+#EXTINF:-1 group-title="新闻财经",宜兴新闻
+https://live.chinacert.cftest5.cn/cnmg/live/955227996
+#EXTINF:-1 group-title="新闻财经",嵊州新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="新闻财经",平湖新闻综合
+http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="新闻财经",平遥新闻综合
+https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
+#EXTINF:-1 group-title="新闻财经",广东新闻
+http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
+#EXTINF:-1 group-title="新闻财经",广州新闻
+http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+#EXTINF:-1 group-title="新闻财经",广西新闻
+http://198.204.228.26/live/gxxw.m3u8
+#EXTINF:-1 group-title="新闻财经",庆元新闻综合
+http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
+#EXTINF:-1 group-title="新闻财经",开化新闻综合
+http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="新闻财经",张掖新闻综合
+https://play.kankanlive.com/live/1720583434627241.m3u8
+#EXTINF:-1 group-title="新闻财经",文成新闻综合
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+#EXTINF:-1 group-title="新闻财经",新昌新闻综合
+https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+#EXTINF:-1 group-title="新闻财经",新沂新闻
+http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
+#EXTINF:-1 group-title="新闻财经",新闻综合
+https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
+#EXTINF:-1 group-title="新闻财经",旺苍新闻综合
+http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
+#EXTINF:-1 group-title="新闻财经",普陀新闻综合
+http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+#EXTINF:-1 group-title="新闻财经",松潘新闻综合
+http://live.spccmc.com:90/live/spxwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+#EXTINF:-1 group-title="新闻财经",武义新闻综合
+http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+#EXTINF:-1 group-title="新闻财经",武乡新闻综合
+http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd
+#EXTINF:-1 group-title="新闻财经",武汉一台新闻综合
+https://ls.qingting.fm/live/20198/64k.m3u8
+#EXTINF:-1 group-title="新闻财经",永嘉新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
+#EXTINF:-1 group-title="新闻财经",汶川新闻综合
+http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
+#EXTINF:-1 group-title="新闻财经",泗洪新闻综合
+http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8
+#EXTINF:-1 group-title="新闻财经",泸县新闻综合
+http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
+#EXTINF:-1 group-title="新闻财经",浙江公共新闻
+http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1 group-title="新闻财经",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
+#EXTINF:-1 group-title="新闻财经",浙江经济
+http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="新闻财经",浙江经济生活
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="新闻财经",海南新闻
+http://ls.qingting.fm/live/1861.m3u8
+#EXTINF:-1 group-title="新闻财经",海宁新闻综合
+https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
+#EXTINF:-1 group-title="新闻财经",渭源新闻
+http://play.kankanlive.com/live/1720408280309109.m3u8
+#EXTINF:-1 group-title="新闻财经",湖州新闻综合
+http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
+#EXTINF:-1 group-title="新闻财经",滨海新闻综合
+http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
+#EXTINF:-1 group-title="新闻财经",灌阳新闻综合
+https://ls.qingting.fm/live/5043/64k.m3u8
+#EXTINF:-1 group-title="新闻财经",烟台新闻综合
+http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
+#EXTINF:-1 group-title="新闻财经",烟台经济科技
+http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
+#EXTINF:-1 group-title="新闻财经",甘肃经济
+https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
+#EXTINF:-1 group-title="新闻财经",白城新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
+#EXTINF:-1 group-title="新闻财经",福建新闻
+http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
+#EXTINF:-1 group-title="新闻财经",福建经济
+http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
+#EXTINF:-1 group-title="新闻财经",第一财经
+http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+#EXTINF:-1 group-title="新闻财经",缙云新闻综合
+http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
+#EXTINF:-1 group-title="新闻财经",舒兰新闻综合
+http://stream8.jlntv.cn/shulan/sd/live.m3u8?_upt=332db6421699196585
+#EXTINF:-1 group-title="新闻财经",苍南新闻综合
+https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+#EXTINF:-1 group-title="新闻财经",苏州新闻综合
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 group-title="新闻财经",苏州生活资讯
+https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+#EXTINF:-1 group-title="新闻财经",苏州社会经济
+https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+#EXTINF:-1 group-title="新闻财经",荆门新闻综合
+http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="新闻财经",萧山新闻综合
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 group-title="新闻财经",衡阳新闻综合
+https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
+#EXTINF:-1 group-title="新闻财经",衢江新闻综合
+http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="新闻财经",西宁新闻综合
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1 group-title="新闻财经",西安新闻
+http://112.46.105.20:8009/hls/28/index.m3u8
+#EXTINF:-1 group-title="新闻财经",诸暨新闻综合
+https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
+#EXTINF:-1 group-title="新闻财经",象山新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+#EXTINF:-1 group-title="新闻财经",辉南新闻综合
+http://stream5.jlntv.cn/hn/sd/live.m3u8
+#EXTINF:-1 group-title="新闻财经",连云港新闻综合
+https://live.chinacert.cftest5.cn/cnmg/live/639731715
+#EXTINF:-1 group-title="新闻财经",重庆新闻
+http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
+#EXTINF:-1 group-title="新闻财经",铜陵新闻综合
+https://ls.qingting.fm/live/21303/64k.m3u8
+#EXTINF:-1 group-title="新闻财经",镇江新闻综合
+https://live.chinacert.cftest5.cn/cnmg/live/639731783
+#EXTINF:-1 group-title="新闻财经",长沙新闻
+http://ls.qingting.fm/live/4877.m3u8
+#EXTINF:-1 group-title="新闻财经",长沙新闻综合
+http://ls.qingting.fm/live/4877.m3u8
+#EXTINF:-1 group-title="新闻财经",陕西新闻咨询
+http://112.46.105.20:8009/hls/18/index.m3u8
+#EXTINF:-1 group-title="新闻财经",雅安新闻综合
+https://play.yunxya.com/channellive/xinwen.m3u8
+#EXTINF:-1 group-title="新闻财经",靖江新闻综合
+http://ls.qingting.fm/live/23797.m3u8
+#EXTINF:-1 group-title="新闻财经",黄山新闻综合
+http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
+#EXTINF:-1 group-title="新闻财经",黑龙江新闻
+https://ls.qingting.fm/live/4974/64k.m3u8
+#EXTINF:-1 group-title="新闻财经",龙泉新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+#EXTINF:-1 group-title="新闻财经",龙游新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="纪实科教",世界地理
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
+#EXTINF:-1 group-title="纪实科教",之江纪录
+http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="纪实科教",兵器科技
+https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="纪实科教",句容党建
+http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+#EXTINF:-1 group-title="纪实科教",洛阳科教
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8
+#EXTINF:-1 group-title="广播·音乐",30A Music
+http://30a-tv.com/music.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="广播·音乐",88 Stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="广播·音乐",Big Radio
+https://stream.hndt.com/live/gudian/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",CNR 中国之声
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1 group-title="广播·音乐",CNR 文艺之声
+http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",CNR 经济之声
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1 group-title="广播·音乐",CRI HIT FM (广州)
+https://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",CRI 华语环球广播
+http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1 group-title="广播·音乐",CRI 南海之声
+http://sk.cri.cn/nhzs.m3u8
+#EXTINF:-1 group-title="广播·音乐",CRI 环球信息广播 FM90.5
+http://sk.cri.cn/905.m3u8
+#EXTINF:-1 group-title="广播·音乐",CRI 环球资讯广播
+https://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",CRI 粤语国际
+http://sk.cri.cn/hxfh.m3u8
+#EXTINF:-1 group-title="广播·音乐",CityFM|台北健康
+http://fm901.cityfm.tw:8080/901.mp3
+#EXTINF:-1 group-title="广播·音乐",CityFM|台南之音
+http://fm971.cityfm.tw:8080/971.mp3
+#EXTINF:-1 group-title="广播·音乐",CityFM|城市广播
+http://fm929.cityfm.tw:8080/929.mp3
+#EXTINF:-1 group-title="广播·音乐",Gigant FM
+https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="广播·音乐",M-Radio全国广播
+http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
+#EXTINF:-1 group-title="广播·音乐",My Radio
+https://stream.hndt.com/live/yingshi/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",SWR 3 Visual Radio
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="广播·音乐",上海第一财经广播
+https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",上海长三角之声
+https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",中广新闻网
+http://stream.rcs.revma.com/78fm9wyy2tzuv
+#EXTINF:-1 group-title="广播·音乐",中广流行网
+http://stream.rcs.revma.com/aw9uqyxy2tzuv
+#EXTINF:-1 group-title="广播·音乐",中广音乐网
+http://stream.rcs.revma.com/ks4vsmg3qtzuv
+#EXTINF:-1 group-title="广播·音乐",云南交通之声
+https://satellitepull.cnr.cn/live/wxynjtgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",云南国际广播
+https://satellitepull.cnr.cn/live/wxynsegb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",云南广播
+https://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",云南新闻广播
+https://satellitepull.cnr.cn/live/wxynxwgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",云南民族广播
+https://satellitepull.cnr.cn/live/wxynmzgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",云南经济广播•私家车电台
+https://satellitepull.cnr.cn/live/wxynjjgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",内蒙古新闻广播
+https://satellitepull.cnr.cn/live/wx32nmghyzhxwgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",内蒙古蒙语对外广播草原之声
+https://satellitepull.cnr.cn/live/wx32nmgdwgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",内蒙古蒙语新闻广播
+https://satellitepull.cnr.cn/live/wx32nmgmygb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",动感音乐台
+http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",华语金曲500首
+http://ls.qingting.fm/live/3412131.m3u8
+#EXTINF:-1 group-title="广播·音乐",台中广播电台
+http://211.20.119.101:8081
+#EXTINF:-1 group-title="广播·音乐",台北广播电台AM1134
+https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",台北广播电台FM93.1
+https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",台湾Lounge Radio音乐电台
+http://streaming.radionomy.com/JamendoLounge
+#EXTINF:-1 group-title="广播·音乐",台湾古典音乐台
+http://59.120.88.155:8000/live.mp3
+#EXTINF:-1 group-title="广播·音乐",呼伦贝尔汉语广播
+https://satellitepull.cnr.cn/live/wx32nmghlbehygb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",呼伦贝尔蒙语广播
+https://satellitepull.cnr.cn/live/wx32nmghlbemygb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",四川交通广播
+https://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",四川岷江广播
+http://ls.qingting.fm/live/1110.m3u8
+#EXTINF:-1 group-title="广播·音乐",四川广播四川之声
+https://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",四川私家车广播
+https://satellitepull.cnr.cn/live/wxsc925/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",天籁之音 Hi-Fi Radio
+http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",天籁之音-国风
+http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",天籁古典
+http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",太阳电台
+http://211.20.119.102:8081
+#EXTINF:-1 group-title="广播·音乐",宁夏广播
+https://satellitepull.cnr.cn/live/wxnxyygb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",宁夏新闻广播
+https://satellitepull.cnr.cn/live/wxnxxwgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",安徽之声
+https://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",安徽交通广播
+https://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",安徽广播
+https://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",安徽戏曲广播•动听995
+https://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",安徽故事广播
+https://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",安徽旅游广播•高速之声
+https://satellitepull.cnr.cn/live/wxahlygb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",安徽生活广播•城市之声
+https://satellitepull.cnr.cn/live/wxahshgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",安徽经济广播
+https://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",山东交通广播
+https://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",山东体育休闲广播
+https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",山东经典广播
+https://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",山东经济广播
+https://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",广东广播
+http://ls.qingting.fm/live/1260.m3u8
+#EXTINF:-1 group-title="广播·音乐",广西交通广播
+https://satellitepull.cnr.cn/live/wx32gxjtgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",广西北部湾之声
+https://satellitepull.cnr.cn/live/wx32gxdwgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",广西广播
+https://satellitepull.cnr.cn/live/wx32gxrmgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",广西教育广播
+https://satellitepull.cnr.cn/live/wx32gbjyshgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",广西经济广播•女主播电台
+https://satellitepull.cnr.cn/live/wx32gxjjgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",延边文艺生活广播
+https://satellitepull.cnr.cn/live/wxybwyshgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",开州之声
+http://183.64.174.171:10124/tlgb.m3u8
+#EXTINF:-1 group-title="广播·音乐",心灵音乐馆
+http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",新疆私家车广播
+https://satellitepull.cnr.cn/live/wxxjsjcgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",格莱美音乐台
+http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",梨园
+https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
+#EXTINF:-1 group-title="广播·音乐",楚天交通广播
+https://satellitepull.cnr.cn/live/wx32hubctjtgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",正义电台
+http://211.20.119.103:8081
+#EXTINF:-1 group-title="广播·音乐",民谣 蓝调
+http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",民谣音乐台
+http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",江苏广播
+https://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",江苏文艺广播
+https://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",河北交通广播
+https://satellitepull.cnr.cn/live/wxhebjtgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",河北广播
+https://satellitepull.cnr.cn/live/wxhebzhgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",河北文艺广播
+https://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",河北生活广播
+https://satellitepull.cnr.cn/live/wxhebshgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",河北经济广播
+https://satellitepull.cnr.cn/live/wxhebjjgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",河南交通广播
+https://stream.hndt.com/live/jiaotong/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",河南信息广播
+https://stream.hndt.com/live/leling/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",河南广播
+https://stream.hndt.com/live/yinyue/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",河南戏曲广播
+https://stream.hndt.com/live/yule/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",河南教育广播
+https://stream.hndt.com/live/jiaoyu/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",河南新闻广播
+https://stream.hndt.com/live/xinwen/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",河南经济广播
+https://stream.hndt.com/live/jingji/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",法国国际广播电台
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+#EXTINF:-1 group-title="广播·音乐",浙江之声
+https://satellitepull.cnr.cn/live/wxzjzs/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",浙江交通之声
+https://satellitepull.cnr.cn/live/wxzjjtgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",浙江城市之声
+https://satellitepull.cnr.cn/live/wxzjcszs/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",浙江旅游之声
+https://satellitepull.cnr.cn/live/wxzj1045/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",浙江民生资讯广播
+https://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",浙江经济广播
+https://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",浙江音乐调频•动听968
+https://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",海南广播
+https://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",深圳飞扬音乐台
+http://ls.qingting.fm/live/1271.m3u8
+#EXTINF:-1 group-title="广播·音乐",湖北之声
+https://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",湖北经典广播
+https://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",湖南音乐之声•芒果音乐台
+http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+#EXTINF:-1 group-title="广播·音乐",潮流音乐台
+http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",甘肃经济广播
+https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",福州交通之声
+http://live.zohi.tv/audio/s10001-FM876/index.m3u8
+#EXTINF:-1 group-title="广播·音乐",福州左海之声
+http://live.zohi.tv/audio/s10001-FM901/index.m3u8
+#EXTINF:-1 group-title="广播·音乐",福州广播
+http://live.zohi.tv/audio/s10001-FM893/index.m3u8
+#EXTINF:-1 group-title="广播·音乐",福州新闻广播
+http://live.zohi.tv/audio/s10001-FM944/index.m3u8
+#EXTINF:-1 group-title="广播·音乐",福建东南广播
+https://satellitepull.cnr.cn/live/wx32fjdngb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",福建都市广播•私家车987
+https://satellitepull.cnr.cn/live/wx32fjdndsgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",私家车999
+https://stream.hndt.com/live/sijiache/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",绍兴之声
+http://live.shaoxing.com.cn/audio/s10001-xw1/index.m3u8
+#EXTINF:-1 group-title="广播·音乐",绍兴交通广播
+http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8
+#EXTINF:-1 group-title="广播·音乐",贵州广播
+https://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",贵州故事广播
+https://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",贵州旅游广播
+https://satellitepull.cnr.cn/live/wx32gzlygb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",贵州经济广播
+https://satellitepull.cnr.cn/live/wx32gzjjgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",贵州都市广播
+https://satellitepull.cnr.cn/live/wx32gzqcgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",辽宁之声
+https://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",辽宁乡村广播
+https://satellitepull.cnr.cn/live/wxlnxcgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",辽宁交通广播
+https://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",辽宁经典广播
+https://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",辽宁经济广播
+https://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",重庆广播
+https://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",锡林郭勒汉语广播
+https://satellitepull.cnr.cn/live/wx32nmgxlglhygb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",阿拉善汉语广播
+https://satellitepull.cnr.cn/live/wx32nmgalshygb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",阿里郎电台(视频)
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",陕西交通广播
+https://satellitepull.cnr.cn/live/wxsxxjtgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",陕西农村广播
+https://satellitepull.cnr.cn/live/wxsxxncgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",陕西广播
+https://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",陕西新闻广播
+https://satellitepull.cnr.cn/live/wxsxxxwgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",陕西经济广播•896汽车调频
+https://satellitepull.cnr.cn/live/wxsxxjjgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",陕西青少广播•好听1055
+https://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",青海交通广播
+https://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",青海新闻广播
+https://satellitepull.cnr.cn/live/wx32qhwxzhgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",青海经济广播
+https://satellitepull.cnr.cn/live/wx32qhjjgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",音乐现场
+https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",风云音乐
+https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7ecd75752&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="广播·音乐",飞碟电台
+http://stream.rcs.revma.com/em90w4aeewzuv
+#EXTINF:-1 group-title="广播·音乐",黑龙江广播
+https://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",黑龙江朝鲜语广播
+https://satellitepull.cnr.cn/live/wx32hljcygb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",黑龙江老年少儿广播•爱家调频
+https://satellitepull.cnr.cn/live/wx32hljajgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",黑龙江都市女性广播
+https://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8
+#EXTINF:-1 group-title="广播·音乐",黑龙江高校广播
+https://satellitepull.cnr.cn/live/wx32hljgxgb/playlist.m3u8
+#EXTINF:-1 group-title="华语点播",「中」于文文-体面
+https://vdse.bdstatic.com//f18bdf41f28b68a1b0177fa5e5cdf8fe.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A29Z%2F-1%2Fhost
+#EXTINF:-1 group-title="华语点播",「中」任齐贤-心太软
+http://vodcdn.video.taobao.com/oss/ali-video/1675208d8b5f0f0d8ce09236f4068dfe/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」光良-童话
+http://vodcdn.video.taobao.com/oss/ali-video/e2c54a5b89aaa794cfc186c41d2ef348/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」光良-第一次
+http://vodcdn.video.taobao.com/oss/ali-video/fe68ff471420aaefcb3a7f4f413ad3f4/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」冷漠-不要再说你还爱我
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_911272&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」冷漠-你把爱情给了谁
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1210771&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」冷漠-再爱也没有用
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_5834217&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」冷漠-古咖啡
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_3142984&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」冷漠-我是否也在你心中
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_4378249&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」冷漠-时光海湾
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_9867444&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」冷漠-真不是闹着玩
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_22836669&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」冷漠-谁都不要说分手
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_12975393&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」凤凰传奇-中国味道
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042021&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」凤凰传奇-今生的缘
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_646024&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」凤凰传奇-光芒
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042019&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」凤凰传奇-华夏传说
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_40828850&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」凤凰传奇-奇迹世界
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_954805&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」凤凰传奇-御龙归字谣
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1164118&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」凤凰传奇-月亮之上
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_7084968&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」凤凰传奇-歌唱二小放牛郎
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_8120530&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」凤凰传奇-温柔姑娘
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_6401404&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」凤凰传奇-策马奔腾
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042013&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」凤凰传奇-自由自在
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042025&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」凤凰传奇-自由飞翔
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_18747906&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-东南西北风
+http://vd3.bdstatic.com/mda-jf9fszd51shymgp6/mda-jf9fszd51shymgp6.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-免失志
+http://vd3.bdstatic.com/mda-jdngvdh4ru0irwma/mda-jdngvdh4ru0irwma.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-同一首歌
+http://vd3.bdstatic.com/mda-jf1j2af0dji6ju83/mda-jf1j2af0dji6ju83.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-夜来香
+http://vd3.bdstatic.com/mda-jfai9k0sxf0nisvq/mda-jfai9k0sxf0nisvq.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-大家一起来DJ
+http://vd3.bdstatic.com/mda-jf1jfkgj3qte7h96/mda-jf1jfkgj3qte7h96.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-山不转水转
+http://vd3.bdstatic.com/mda-jb7pfvgc6wuivhqi/mda-jb7pfvgc6wuivhqi.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-心挂意无处用
+http://vd3.bdstatic.com/mda-jfkgx7x5gki9xpgs/mda-jfkgx7x5gki9xpgs.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-捉泥鳅
+http://vd3.bdstatic.com/mda-jf6k8v71hrs8s441/mda-jf6k8v71hrs8s441.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-无情的班机
+http://vd3.bdstatic.com/mda-jeqjsqimdzvytgvv/mda-jeqjsqimdzvytgvv.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-无聊的爱情
+http://vd3.bdstatic.com/mda-jfkhu7bksxcqjq2z/mda-jfkhu7bksxcqjq2z.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-无言的结局
+http://vd3.bdstatic.com/mda-jenpdiydc7kez9ze/mda-jenpdiydc7kez9ze.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-旧情也绵绵
+http://vd3.bdstatic.com/mda-jfje0s0z33b0c9vf/mda-jfje0s0z33b0c9vf.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-杜十娘
+http://vd3.bdstatic.com/mda-jekst5s3c341xwyd/mda-jekst5s3c341xwyd.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-梦醒十分
+http://vd3.bdstatic.com/mda-jennyc5ci1ugrxzi/mda-jennyc5ci1ugrxzi.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-橄榄树
+http://vd3.bdstatic.com/mda-jfagwdhxb30ymr13/mda-jfagwdhxb30ymr13.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-歹路不通行
+http://vd3.bdstatic.com/mda-imigfktdeeseud4j/mda-imigfktdeeseud4j.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-流星雨
+http://vd3.bdstatic.com/mda-jfap39wqmi2yisu6/mda-jfap39wqmi2yisu6.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-爱情一阵风
+http://vd3.bdstatic.com/mda-jf5fre7jvd0q3rfu/mda-jf5fre7jvd0q3rfu.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-爱拼才会赢
+http://vd3.bdstatic.com/mda-jfreugw1pcza8xr1/mda-jfreugw1pcza8xr1.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-电话情思
+http://vd3.bdstatic.com/mda-jfghscj8datutink/mda-jfghscj8datutink.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-看不见温柔
+http://vd3.bdstatic.com/mda-jeqg6s6gc0ietmst/mda-jeqg6s6gc0ietmst.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-美酒加咖啡
+http://vd3.bdstatic.com/mda-jfrred8ck6pnh6bq/mda-jfrred8ck6pnh6bq.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-莫辜负好时光
+http://vd3.bdstatic.com/mda-jfkkh6m5u47trvqc/mda-jfkkh6m5u47trvqc.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-萍聚
+http://vd3.bdstatic.com/mda-jenmbx88uk365k40/mda-jenmbx88uk365k40.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-蜗牛与黄鹂鸟
+http://vd3.bdstatic.com/mda-jfjnacpfn6r21dec/mda-jfjnacpfn6r21dec.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-谢谢你的爱
+http://vd3.bdstatic.com/mda-jf2fuh2yhd0txff0/mda-jf2fuh2yhd0txff0.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-采红菱
+http://vd3.bdstatic.com/mda-jfdvpsg280t986rz/mda-jfdvpsg280t986rz.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-雨过天晴
+http://vd3.bdstatic.com/mda-jfbggf264f55hv4m/mda-jfbggf264f55hv4m.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」卓依婷-鲁冰花
+http://vd3.bdstatic.com/mda-jf8fbjprnf1fvpxm/mda-jf8fbjprnf1fvpxm.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」原版大鱼海棠
+http://vd3.bdstatic.com/mda-jm9x2pw13gpb4d82/sc/mda-jm9x2pw13gpb4d82.mp4
+#EXTINF:-1 group-title="华语点播",「中」只问你肯不肯
+https://vdse.bdstatic.com/d4463cd83c0c47fba7ce65c71ad94bbb.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
+#EXTINF:-1 group-title="华语点播",「中」叶倩文-伤逝
+http://vodcdn.video.taobao.com/oss/ali-video/9f6ad7cd057bc2cf21d1c5a6cc57eed7/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」叶倩文-我的爱对你说
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/7xXG24i7EbZtCTOtSnh%40%40sd.m3u8
+#EXTINF:-1 group-title="华语点播",「中」叶倩文-曾经心痛
+http://vodcdn.video.taobao.com/oss/ali-video/0ea34400f2502a94ee14aea506e0042b/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」叶倩文-潇洒走一回
+http://vodcdn.video.taobao.com/oss/ali-video/371d75312720e701b5f3988d46cdf4ef/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」吕方-多爱你一天
+http://vodcdn.video.taobao.com/oss/ali-video/dcd97358c3e72377932aa883727320f9/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」吕方-朋友别哭
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/qgljCDKewD8vEgOMrrt%40%40sd.m3u8
+#EXTINF:-1 group-title="华语点播",「中」周华健-朋友
+http://vodcdn.video.taobao.com/oss/ali-video/6079de4355c45a42073ead75954c1b2f/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」周华健-风雨无阻
+http://vodcdn.video.taobao.com/oss/ali-video/8d77795bdc63d87125ba47f993e0bfb4/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」周慧敏-痴心换情深
+http://vodcdn.video.taobao.com/oss/ali-video/aa07f0b5c8a36740b3bee03d69a4116c/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」如梦令
+https://vdse.bdstatic.com/20e606730cb53b91bd4a4d2b0323e563.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
+#EXTINF:-1 group-title="华语点播",「中」孟庭苇-不下雨就出太阳吧
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/lhaW77A2RRwiJrh0CiJ%40%40hd.m3u8
+#EXTINF:-1 group-title="华语点播",「中」孟庭苇-你看你看月亮的脸
+http://vodcdn.video.taobao.com/oss/ali-video/6e098f7b47614885845efb7a45998eb1/1465875165/video.m3u8.m3u8
+#EXTINF:-1 group-title="华语点播",「中」孟庭苇-你究竟有多少个好妹妹
+http://vodcdn.video.taobao.com/oss/ali-video/dfb07cbdd8435d48cb1e6691122d8d85/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」孟庭苇-冬季到台北来看雨
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Pd8qTC385qKJVXaXcKj%40%40hd.m3u8
+#EXTINF:-1 group-title="华语点播",「中」孟庭苇-我说的谎都是真的
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/9aqTcUjlJ7KZkA37W1E%40%40hd.m3u8
+#EXTINF:-1 group-title="华语点播",「中」孟庭苇-把思念寄托远方
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Y0iKpwmE2YZona6PY7A%40%40hd.m3u8
+#EXTINF:-1 group-title="华语点播",「中」孟庭苇-无声的雨
+http://vodcdn.video.taobao.com/oss/ali-video/d404a897abb4526c94bb5f72dc566952/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」孟庭苇-春雪
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/5ZFrpzPk37KvY7CaTUj%40%40hd.m3u8
+#EXTINF:-1 group-title="华语点播",「中」孟庭苇-爱你太深
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/KbJb4OVT1yH1ZDvri5p%40%40hd.m3u8
+#EXTINF:-1 group-title="华语点播",「中」孟庭苇-真的还是假的
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/vhJvCIZiDOz7f6VTCON%40%40hd.m3u8
+#EXTINF:-1 group-title="华语点播",「中」孟庭苇-红雨
+http://vodcdn.video.taobao.com/oss/ali-video/a816f01838e07c4dac5f8612331bca63/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」孟庭苇-谁的眼泪在飞
+http://vodcdn.video.taobao.com/oss/ali-video/bfcfddb1694a43957962294c2f75bdfb/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」孟庭苇-过冬
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/U9QKnKK2RpKMElnSS07%40%40hd.m3u8
+#EXTINF:-1 group-title="华语点播",「中」孟庭苇-雾里看花
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/fi3PjAgsnTjwzAvSboT%40%40hd.m3u8
+#EXTINF:-1 group-title="华语点播",「中」孟庭苇-风中有朵雨做的云
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Cg9qI5imMInpPvK5Mnm%40%40hd.m3u8
+#EXTINF:-1 group-title="华语点播",「中」孟庭苇-风里的梦
+http://vodcdn.video.taobao.com/oss/ali-video/626e2336b5e9765e14ba22a617fd6223/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」小凤凤爱情一阵风
+http://vd2.bdstatic.com/mda-jjm7vgq1iahz0zpg/mda-jjm7vgq1iahz0zpg.mp4
+#EXTINF:-1 group-title="华语点播",「中」屋顶着火宋茜
+https://vd3.bdstatic.com/mda-ife08h4xpq85sg65/logo/hd/mda-ife08h4xpq85sg65.mp4?pd=19&vt=1
+#EXTINF:-1 group-title="华语点播",「中」巫启贤-只因你伤心
+http://vodcdn.video.taobao.com/oss/ali-video/c28acbe36530da595b04161855bba004/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」巫启贤-太傻
+http://vodcdn.video.taobao.com/oss/ali-video/e6f2953419f904065dc2ce38efc85515/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」张学友-一颗不变心
+http://vodcdn.video.taobao.com/oss/ali-video/1dcf180669ab98697e49c4c9b5f76cd7/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」张学友-只想一生跟你走
+http://vodcdn.video.taobao.com/oss/ali-video/7f567e1159256a099f3de8f1fdda2db0/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」张惠妹-别在伤口撒盐
+http://vodcdn.video.taobao.com/oss/ali-video/5997fdd5c8b241b7b2995ae6da3bc8f8/1458294379/video.m3u8.m3u8
+#EXTINF:-1 group-title="华语点播",「中」张惠妹-听海
+http://vodcdn.video.taobao.com/oss/ali-video/c105aa7685c54fbfa74b92e8cc88a3e3/1457681472/video.m3u8.m3u8
+#EXTINF:-1 group-title="华语点播",「中」张智霖-片片枫叶情
+http://vodcdn.video.taobao.com/oss/ali-video/1d02cf8794a542c930fbf210c0a4e3e7/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」张智霖-现代爱情故事
+http://vodcdn.video.taobao.com/oss/ali-video/864b1ca28cb8b566e2989775ae737de7/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」张杰-就算没有如果
+https://vdse.bdstatic.com//b362a1c2ecbc60b18d3dc06cdc97f142.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A58%3A51Z%2F-
+#EXTINF:-1 group-title="华语点播",「中」张杰-浮诛
+https://vdse.bdstatic.com/1c2dc5580507bc1b0ef507c63b3fc461.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
+#EXTINF:-1 group-title="华语点播",「中」张秀卿车站
+http://vd2.bdstatic.com/mda-jjmnjgiabtvmy13u/sc/mda-jjmnjgiabtvmy13u.mp4
+#EXTINF:-1 group-title="华语点播",「中」彭佳慧-回味
+http://vodcdn.video.taobao.com/oss/ali-video/6801f707771eacdb5264f8bb20e4d599/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」彭佳慧-无法割舍
+http://vodcdn.video.taobao.com/oss/ali-video/8be8f7d28d4f2c7ce759d431f0d3181b/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」我愿意平凡的陪在你身旁
+https://vdse.bdstatic.com/570e05ef514db00b14c9c10d1aef7f1f.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z
+#EXTINF:-1 group-title="华语点播",「中」我曾
+https://vd3.bdstatic.com/mda-jjm8i93paakzz8yj/hd/mda-jjm8i93paakzz8yj.mp4?pd=20&vt=1
+#EXTINF:-1 group-title="华语点播",「中」损茜茹/马良-往后余生
+https://vd3.bdstatic.com/mda-jatub6sb1pzwxfnb/hd/mda-jatub6sb1pzwxfnb.mp4?pd=19&vt=1
+#EXTINF:-1 group-title="华语点播",「中」摩登兄弟-探清水河
+http://vd2.bdstatic.com/mda-jg6dffnbt92877h0/sc/mda-jg6dffnbt92877h0.mp4
+#EXTINF:-1 group-title="华语点播",「中」李圣杰-痴心绝对
+http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」李翊君-诺言
+http://vodcdn.video.taobao.com/oss/ali-video/b8096cd4762369bbcb4ceb52cc25a938/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」杨小壮-孤芳自赏
+https://vdse.bdstatic.com//650fda26067e619a8632b173052b3a08.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A59Z%2F-1%2Fhost
+#EXTINF:-1 group-title="华语点播",「中」杨曼-9999滴眼泪
+http://vodcdn.video.taobao.com/oss/ali-video/f6d027835c0e8f72d3c74379b86fb696/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」杨钰莹-我不想说
+http://vodcdn.video.taobao.com/oss/ali-video/cc97a07de2cac88c025590ef874253fc/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」杨钰莹-等你一万年
+http://vodcdn.video.taobao.com/oss/ali-video/e1e0b88e5c6d40d7176f353d41aac985/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」杨钰莹-红彤彤的春天
+http://vodcdn.video.taobao.com/oss/ali-video/31fcc5242ffc9a00a5a62d89b21c0bea/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」杨钰莹-轻轻告诉你
+http://vodcdn.video.taobao.com/oss/ali-video/1905c60363f40cea52f342ec59132da0/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」梁朝伟-一天一天爱恋
+http://vodcdn.video.taobao.com/oss/ali-video/d8c74bd184d05f8cf1cbd4bbd7307f79/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」梁静茹-勇气
+http://vodcdn.video.taobao.com/oss/ali-video/f501ffc81da040099b17fb1db30b92fe/1462937648/video.m3u8.m3u8
+#EXTINF:-1 group-title="华语点播",「中」梁静茹-问
+http://vodcdn.video.taobao.com/oss/ali-video/b2a2adf565e97d00d1bd6d62145184d1/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」毛不易-不染
+https://vd3.bdstatic.com/mda-jmceuahfwxarnh7v/hd/mda-jmceuahfwxarnh7v.mp4?pd=20&playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 group-title="华语点播",「中」毛宁-晚秋
+http://vodcdn.video.taobao.com/oss/ali-video/95751adaad64e6ca860b18f4855cd94d/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」毛宁-蓝蓝的夜蓝蓝的梦
+http://vodcdn.video.taobao.com/oss/ali-video/6d5a8c2e7667e3d6138246a45571d1f7/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」毛宁/杨钰莹-心雨
+http://vodcdn.video.taobao.com/oss/ali-video/0191a1eb6017684a3641a51d32c9633a/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」江蕙-梦中的情话
+http://vd2.bdstatic.com/mda-ji4rwrwg7fijyqkh/mda-ji4rwrwg7fijyqkh.mp4
+#EXTINF:-1 group-title="华语点播",「中」消愁
+https://vd3.bdstatic.com/mda-ifkj2zwdscwthsfj/logo/hd/mda-ifkj2zwdscwthsfj.mp4?pd=20
+#EXTINF:-1 group-title="华语点播",「中」王彩华-爱情的骗子我问你
+http://vd4.bdstatic.com/mda-jm4h7v1isxwc660u/sc/mda-jm4h7v1isxwc660u.mp4
+#EXTINF:-1 group-title="华语点播",「中」王菲-如风
+http://vodcdn.video.taobao.com/oss/ali-video/f176658a3f974aecd5ce3df456092835/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」王菲-执迷不悔
+http://vodcdn.video.taobao.com/oss/ali-video/15bf7da88b44048edaabe73d6b17c00b/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」王菲-爱与痛的边缘
+http://vodcdn.video.taobao.com/oss/ali-video/f5e79c70df75bdccf2714ed788764f58/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」王麟-伤不起
+http://vodcdn.video.taobao.com/oss/ali-video/1e3633ff1c3a525e148968b45c18f780/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」筷子兄弟-小苹果
+http://vd1.bdstatic.com/mda-hc2rwgemn6yrnvw2/mda-hc2rwgemn6yrnvw2.mp4
+#EXTINF:-1 group-title="华语点播",「中」纸短情长
+https://vdse.bdstatic.com//e214194bf6de7f598b9873619b691fa6.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A26%3A53Z%2F-1%2Fhost
+#EXTINF:-1 group-title="华语点播",「中」罗时丰-心事
+http://vd2.bdstatic.com/mda-jaadiz1rwrtrj7kw/sc/mda-jaadiz1rwrtrj7kw.mp4
+#EXTINF:-1 group-title="华语点播",「中」罗时丰-擦掉彼句我爱你
+http://vd1.bdstatic.com/mda-hj3j9zhu12h99a79/vs-f5f50550f0b93f5020da43ab88266eda-watermark/hd/mda-hj3j9zhu12h99a79.mp4
+#EXTINF:-1 group-title="华语点播",「中」罗时丰-无情之梦
+http://vd2.bdstatic.com/mda-je1jq1hvgmab08gd/sc/mda-je1jq1hvgmab08gd.mp4
+#EXTINF:-1 group-title="华语点播",「中」罗时丰-爱情的路
+http://vd4.bdstatic.com/mda-jcrjcp1wy5q2i00n/sc/mda-jcrjcp1wy5q2i00n.mp4
+#EXTINF:-1 group-title="华语点播",「中」罗时丰-爱那么痛
+http://vd2.bdstatic.com/mda-jcrjbhmgprhs00c4/sc/mda-jcrjbhmgprhs00c4.mp4
+#EXTINF:-1 group-title="华语点播",「中」罗时丰一定要成功
+http://vd1.bdstatic.com/mda-hgmk00ncqxvvix0v/mda-hgmk00ncqxvvix0v.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-为爱相逢
+http://vd2.bdstatic.com/mda-ijgq79ukweagj0v0/sc/mda-ijgq79ukweagj0v0.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-乎我理由
+http://vd3.bdstatic.com/mda-jd0bzjvcp1d19b0k/sc/mda-jd0bzjvcp1d19b0k.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-今生今世
+http://vd3.bdstatic.com/mda-ji4sadsbxes30b8h/mda-ji4sadsbxes30b8h.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-前途
+http://vd2.bdstatic.com/mda-jijnuvcf8ggs5wte/mda-jijnuvcf8ggs5wte.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-因为你的爱
+http://vd2.bdstatic.com/mda-jk2r3d0w8sqkk59j/mda-jk2r3d0w8sqkk59j.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-坚持
+http://vd2.bdstatic.com/mda-ji4uxxfqu5tgr7c3/mda-ji4uxxfqu5tgr7c3.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-妈妈请你不通痛
+http://vd3.bdstatic.com/mda-im9gh6d15m05zu9p/sc/mda-im9gh6d15m05zu9p.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-思念的情泪
+http://vd3.bdstatic.com/mda-hmhng3p0jbskv57p/sc/mda-hmhng3p0jbskv57p.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-恁姊仔住市内
+http://vd3.bdstatic.com/mda-ijfekw4yxergj9ak/sc/mda-ijfekw4yxergj9ak.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-情缘路
+http://vd3.bdstatic.com/mda-ijgdxmwrrfv4tsam/sc/mda-ijgdxmwrrfv4tsam.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-感恩
+http://vd2.bdstatic.com/mda-jdc4v9b9tvrjw4pe/hd/mda-jdc4v9b9tvrjw4pe.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-我问天
+http://vd4.bdstatic.com/mda-im9gwdckyxiq5ab6/sc/mda-im9gwdckyxiq5ab6.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-找巢
+http://vd2.bdstatic.com/mda-jm5gc09g63p6j10k/sc/mda-jm5gc09g63p6j10k.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-拼命的坚持
+http://vd4.bdstatic.com/mda-jd9ksvdjk0n3qiae/hd/mda-jd9ksvdjk0n3qiae.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-探听
+http://vd2.bdstatic.com/mda-igmf3i4hied5ar5u/hd/mda-igmf3i4hied5ar5u.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-沃澹的相片
+http://vd4.bdstatic.com/mda-jefjhd593hvtfjsc/sc/mda-jefjhd593hvtfjsc.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-温暖家园
+http://vd3.bdstatic.com/mda-igim5cnwnq4xv94f/hd/mda-igim5cnwnq4xv94f.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-爱情的陷阱
+http://vd3.bdstatic.com/mda-ijgee8tg9n4a95ij/sc/mda-ijgee8tg9n4a95ij.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-爱过无心
+http://vd4.bdstatic.com/mda-ijgqk17gxf3xh2wz/sc/mda-ijgqk17gxf3xh2wz.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-独身仔的生活
+http://vd4.bdstatic.com/mda-jdmd7ydrsa0dp6e2/hd/mda-jdmd7ydrsa0dp6e2.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-用泪写缘份
+http://vd4.bdstatic.com/mda-ijfeqx4zc0gxq5jq/sc/mda-ijfeqx4zc0gxq5jq.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-甲妳惜命命
+http://vd2.bdstatic.com/mda-jk2ptewhvn5cee6n/sc/mda-jk2ptewhvn5cee6n.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-行棋
+http://vd2.bdstatic.com/mda-ji4w8pcxse8taw5b/sc/mda-ji4w8pcxse8taw5b.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-表示
+http://vd4.bdstatic.com/mda-ijge8r0m6vgx46ms/sc/mda-ijge8r0m6vgx46ms.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-迷魂香
+http://vd1.bdstatic.com/mda-hid0euc4xc7xmum0/sc/mda-hid0euc4xc7xmum0.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-送你送到这
+http://vd2.bdstatic.com/mda-jm33ts9txcjuaq27/hd/mda-jm33ts9txcjuaq27.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-阿公的茶
+http://vd2.bdstatic.com/mda-ijgqgd9jwz54ray7/sc/mda-ijgqgd9jwz54ray7.mp4
+#EXTINF:-1 group-title="华语点播",「中」翁立友-限时批
+http://vd3.bdstatic.com/mda-iighnnxyc3nfj9zu/sc/mda-iighnnxyc3nfj9zu.mp4
+#EXTINF:-1 group-title="华语点播",「中」胡杨林-香水有毒
+http://vodcdn.video.taobao.com/oss/ali-video/180f9fcdb9e2b24d3b13a526fb90003e/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」草蜢-半点心
+http://vodcdn.video.taobao.com/oss/ali-video/68fc953ff930412784dada5eb79d0821/1461058499/video.m3u8.m3u8
+#EXTINF:-1 group-title="华语点播",「中」草蜢-失恋阵线联盟
+http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」草蜢-宝贝对不起
+http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/RQdMfitGKCINh4BPzc9%40%40sd.m3u8
+#EXTINF:-1 group-title="华语点播",「中」草蜢-忘情森巴舞
+http://vodcdn.video.taobao.com/oss/ali-video/a30020a6cd9ce2a8b387e029f9c5365c/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」蔡丽津月圆情
+http://vd3.bdstatic.com/mda-jm53zq7k0b0kbxch/sc/mda-jm53zq7k0b0kbxch.mp4
+#EXTINF:-1 group-title="华语点播",「中」裘正海-爱你十分泪七分
+http://vodcdn.video.taobao.com/oss/ali-video/6ad63af2dc4b244d0dc773b2004374c3/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」誓言-求佛
+http://vodcdn.video.taobao.com/oss/ali-video/f4f761d970399f186ce1f9ac6d009721/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」许茹芸-不爱我放了我
+http://vodcdn.video.taobao.com/oss/ali-video/b0f458650135c68f1b88ea7667eec629/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」许茹芸-如果云知道
+http://vodcdn.video.taobao.com/oss/ali-video/fd87aea7bc293a5930b8a64c752df476/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」许茹芸-我依然爱你
+http://vodcdn.video.taobao.com/oss/ali-video/4c4ec12e6efa0d76e5a269ac05ea394e/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」许茹芸-泪海
+http://vodcdn.video.taobao.com/oss/ali-video/76fe6eb28aee716783f2a47ba8a15e5a/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」许茹芸-独角戏
+http://vodcdn.video.taobao.com/oss/ali-video/5333f389ce940d0a2c1dd6090927746c/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」谭咏麟/关淑怡-明天你是否依然爱我
+http://vodcdn.video.taobao.com/oss/ali-video/0b56ad556e887a9be35d496d318a7565/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」赵方婧-芒种
+https://vd3.bdstatic.com/mda-kat1tr4ka5st965k/hd/mda-kat1tr4ka5st965k.mp4?pd=20
+#EXTINF:-1 group-title="华语点播",「中」辛晓琪-仿佛是昨天
+http://vodcdn.video.taobao.com/oss/ali-video/dbaf6d1d5a0ec2d93a668796e46e4f05/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」辛晓琪-俩俩相忘
+http://vodcdn.video.taobao.com/oss/ali-video/6b406c70e3007a5c66a2085c39b13d80/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」辛晓琪-味道
+http://vodcdn.video.taobao.com/oss/ali-video/ce005204d02a88cfac474f1583f08add/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」辛晓琪-领悟
+http://vodcdn.video.taobao.com/oss/ali-video/2a4e61d4bba6b712bd5638fd508e85a5/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」醉千年李袁杰
+http://vd3.bdstatic.com/mda-ihai9qt3yny3sx53/hd/mda-ihai9qt3yny3sx53.mp4?pd=19&vt=1
+#EXTINF:-1 group-title="华语点播",「中」阿冗-你的答案
+https://vdse.bdstatic.com/363480020aaa13240bbe51121d3e2a65.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
+#EXTINF:-1 group-title="华语点播",「中」阿悠悠-你若三冬
+https://vdse.bdstatic.com/865b4e81a729189fcafe910104151a75.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
+#EXTINF:-1 group-title="华语点播",「中」陈倩倩-婴儿
+http://vodcdn.video.taobao.com/oss/ali-video/4fc8d043456c092c392483bd293d0ee3/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」陈慧娴-千千阙歌
+http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」陈慧娴-孤单背影
+http://vodcdn.video.taobao.com/oss/ali-video/092bc3fac8ea013544a1dda61de41e58/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」陈慧娴-归来吧
+http://vodcdn.video.taobao.com/oss/ali-video/c89589fd5809cf6e2f1a4d7a52023733/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」陈慧娴-红茶馆
+http://vodcdn.video.taobao.com/oss/ali-video/22ecb463b2e44875b1fa78090d0ffd4e/1460015776/video.m3u8.m3u8
+#EXTINF:-1 group-title="华语点播",「中」陈慧娴-跳舞街
+http://vodcdn.video.taobao.com/oss/ali-video/5e463c16339f3dd6839e6a7d2074915c/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」陈明真-为爱笑着流泪
+http://vodcdn.video.taobao.com/oss/ali-video/4f31a4692aae0974dbc82a95d23339f4/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」陈明真-变心的翅膀
+http://vodcdn.video.taobao.com/oss/ali-video/e18dd3abfada11fb6faf26a521084343/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」陈明真-情债
+http://vodcdn.video.taobao.com/oss/ali-video/99c8f1df6d5686d99e4adc1e6caed7b7/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」陈明真-百万个吻
+http://vodcdn.video.taobao.com/oss/ali-video/0c66aff1e198e944fb0460172d33d780/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」陈柯宇-生僻字
+http://vd2.bdstatic.com/mda-jb28qp6tauzkzpy9/hd/mda-jb28qp6tauzkzpy9.mp4
+#EXTINF:-1 group-title="华语点播",「中」陈淑苹-离家
+http://vd2.bdstatic.com/mda-iftyuk6tjcxrm53p/sc/mda-iftyuk6tjcxrm53p.mp4
+#EXTINF:-1 group-title="华语点播",「中」陈淑苹-黄昏之恋
+http://vd4.bdstatic.com/mda-jk0m1rgje4eh01cw/hd/mda-jk0m1rgje4eh01cw.mp4
+#EXTINF:-1 group-title="华语点播",「中」陈瑞-一生的等待
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1583215&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」陈瑞-一辈子的真爱
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_28470656&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」陈瑞-三生三世
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_6449820&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」陈瑞-分手了别来打扰我
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_5835684&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」陈瑞-别思
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_3429064&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」陈瑞-天长地久
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1583220&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」陈瑞-心中的牵挂
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1583211&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」陈瑞-有谁知道我在等你
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1583218&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」陈瑞-烛光里的妈妈
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1024266&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」陈瑞-爱得真伤的深
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1218839&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」陈瑞-爱的痕迹
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1218815&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」陈瑞-父亲
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_4247454&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」陈瑞-红尘永相伴
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_506435&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」陈瑞-鱼和水的故事
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_353501&response=res&format=mp4&type=convert_url
+#EXTINF:-1 group-title="华语点播",「中」陈百潭-初恋
+http://vd4.bdstatic.com/mda-jk22i7yt5vyjbgwt/hd/mda-jk22i7yt5vyjbgwt.mp4
+#EXTINF:-1 group-title="华语点播",「中」陈雪凝-你的酒馆对我打了烊
+https://vd3.bdstatic.com/mda-ka59e4w0qxxsxnt0/hd/mda-ka59e4w0qxxsxnt0.mp4?pd=19&vt=1
+#EXTINF:-1 group-title="华语点播",「中」马健淘-杀阡陌
+https://vdse.bdstatic.com/17014878933308f5eb81b2a9d98783d8.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
+#EXTINF:-1 group-title="华语点播",「中」黄凯芹-相爱很难
+http://vodcdn.video.taobao.com/oss/ali-video/11b6273898b6a1b1da34e646264cd036/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」黎瑞恩-为情为爱
+http://vodcdn.video.taobao.com/oss/ali-video/73348f95d4cee3fcc96a63c30deed357/video.m3u8
+#EXTINF:-1 group-title="华语点播",「中」龙梅子-泪满天
+http://vodcdn.video.taobao.com/oss/ali-video/2ea2890443421f58665a7fdf0a297265/video.m3u8
+#EXTINF:-1 group-title="韩流点播",「韩」1
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」2
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」3
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」4
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」5
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」6
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239880949246.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」7
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903717006.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」8
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」9
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799872402.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」10
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799088974.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」11
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」12
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240142715042.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」13
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240025046562.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」14
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240145171654.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」15
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240147051191.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」16
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239805200933.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」17
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239910253332.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」18
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239806164759.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」19
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239807872136.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」20
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240032526123.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」21
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239808028600.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」22
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」23
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150331617.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」24
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239809100782.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」25
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167718.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」26
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240033362815.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」27
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167938.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」28
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240035466345.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」29
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239811800375.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」30
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239916285148.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」31
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239927589941.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」32
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239931661209.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」33
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240171579858.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」34
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239831144046.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」35
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240056530470.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」36
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239832040344.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」37
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240173879894.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」38
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240057078179.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」39
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239936685999.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」40
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059018784.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」41
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834324813.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」42
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834716201.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」43
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239837532125.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」44
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240179867562.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」45
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240063650207.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」46
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181243061.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」47
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181363115.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」48
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239944465251.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」49
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065122134.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」50
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239840536452.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」51
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065838644.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」52
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239945877111.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」53
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240184339138.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」54
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239842640589.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」55
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240186067562.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」56
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240187071401.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」57
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240069974546.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」58
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070346911.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」59
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070818783.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」60
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239846692034.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」61
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239951329234.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」62
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240191295627.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」63
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240026585459.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」64
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240192067467.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」65
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239911732892.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」66
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240196491782.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」67
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239960909980.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」68
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240017737344.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」69
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240202339353.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」70
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240203243765.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」71
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240205555546.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」72
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239983417489.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」74
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221687198.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」75
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240222023079.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」76
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107150280.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」77
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240224523227.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」78
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987569147.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」79
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225803033.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」80
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239989445779.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」81
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240229579224.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」82
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993533054.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」83
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994225085.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」84
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994741288.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」85
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995197198.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」86
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240232939168.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」87
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890536417.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」88
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890568711.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」89
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240233783820.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」90
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239894180409.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」92
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239895496483.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」93
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240119938989.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」94
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002397273.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」95
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240241527208.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」96
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239899840062.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」97
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240243499351.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」98
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240127638122.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」99
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240030505796.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」100
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240245283772.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」101
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240247623420.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」102
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240043672242.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」103
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240339124000.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」104
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221702622.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」105
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993732827.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」106
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994460907.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」107
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240340899550.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」108
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995692215.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」109
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240341971789.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」110
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239996664565.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」111
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240342839842.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」112
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225254466.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」113
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225226897.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」114
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998000351.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」115
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240105989528.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」116
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998340711.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」117
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240106477140.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」118
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107389699.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」119
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240345787129.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」120
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240227966801.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」121
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240228462625.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」122
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240108721427.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」123
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001176191.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」125
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001228776.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」126
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240109533631.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」127
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240347663598.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」128
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001932458.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」129
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002044738.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」130
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240111085001.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」131
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350575186.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」132
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350771160.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」133
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240113261859.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」134
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240352039996.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」135
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240236014123.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」136
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008036293.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」137
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240354863286.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」138
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008780109.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」139
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240009608741.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」140
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240379515679.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」141
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240262842385.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」142
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240264262344.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」143
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240384227055.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」145
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240267170778.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」146
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240386743317.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」147
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240268654616.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」148
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240387107547.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」149
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150573492.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」150
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240388683474.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」151
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240270774376.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」152
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151273206.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」153
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389031565.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」157
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240167997205.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」158
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」159
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」160
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」161
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240170661907.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」162
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240411259014.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」163
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240174309994.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」164
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175225325.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」165
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240066736888.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」166
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」167
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295526170.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」168
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295818399.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」169
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177321736.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」170
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177941288.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」171
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070652257.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」172
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298266546.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」173
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070884570.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」174
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298694512.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」175
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240418087243.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」176
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240299394846.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」177
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181409471.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」178
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240182993056.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」179
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301854532.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」180
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240075164377.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」181
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240349762400.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」182
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240121912724.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」183
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240126480392.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」184
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355262537.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」185
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355734488.mp4%EF%BB%BF
+#EXTINF:-1 group-title="韩流点播",「韩」186
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240237453313.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」187
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240130092025.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」188
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240478207039.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」189
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240361330093.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」190
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139316317.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」191
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240248465975.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」192
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139720035.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」193
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240368550193.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」195
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
+#EXTINF:-1 group-title="韩流点播",「韩」196
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
+#EXTINF:-1 group-title="其他",30A Investment Pitch
+http://www.30a-tv.com/InvPit.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="其他",Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 group-title="其他",CineView
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="其他",Cloudflare TV
+https://cloudflare.tv/hls/live.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="其他",Deluxe Lounge HD「自然」
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips&checkedby:iptvcat.com
+#EXTINF:-1 group-title="其他",Golden Jade (1080p)
+http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
+#EXTINF:-1 group-title="其他",Home Plus
+https://homeplushls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="其他",Jade (1080p)
+http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
+#EXTINF:-1 group-title="其他",NBS
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="其他",Pet Club TV (1080p)
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Ryan and Friends
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="其他",女性时尚
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+#EXTINF:-1 group-title="其他",开化国家公园
+http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed
+#EXTINF:-1 group-title="其他",数码时代
+http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
+#EXTINF:-1 group-title="其他",长白朝语
+http://hplayer1.juyun.tv:80/camera/11344136.m3u8
